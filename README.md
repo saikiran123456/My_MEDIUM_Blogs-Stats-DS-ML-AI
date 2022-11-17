@@ -1,6 +1,7 @@
 # my_MEDIUM_Blogs-DS-ML-AI-
+https://medium.com/@saikirandasari41
 
-These are My Blogs Published on MEDIUM.com on'Data Science' till now and I Keep on Adding VALUE in this Area of Expertise!!
+These are My Blogs Published on MEDIUM.com on 'Data Science' till now and I Keep on Adding VALUE in this Area of Expertise!!
 
 It always feel fulfilling to share knowledge that you get while working on the concepts and domain!
 
