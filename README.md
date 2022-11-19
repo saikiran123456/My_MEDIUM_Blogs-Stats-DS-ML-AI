@@ -5,7 +5,7 @@ These are My Blogs Published on MEDIUM.com on 'Data Science' till now and I Keep
 
 It always feel fulfilling to share knowledge that you get while working on the concepts and domain!
 
-It's really fun and exciting when you get to work on something what you actually love and that's what 'Data Science" is for me.
+It's really fun and exciting when you get to work on something what you actually love and that's what "Data Science" is for me.
 
 I feel extremely driven while solving some real-world problems through DS|ML|AI and extending human efficiency.
 
